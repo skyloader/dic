@@ -1,0 +1,334 @@
+<word id="태양">
+  <alt no="0">
+    <type name="noun">
+      <meaning no="0">(해) the sun, the Sun</meaning>
+      <meaning no="1">(위대한 존재)</meaning>
+    </type>
+  </alt>
+  <alt no="1">
+    <type>
+      <meaning no="0">(해해해) the sun, the Sun</meaning>
+      <meaning no="1">(위대한 존재2)</meaning>
+    </type>
+  </alt>
+</word>
+<word id="카메라">
+  <alt no="0">
+    <type>
+      <meaning no="0">(사진기) camera</meaning>
+      <meaning no="1">(촬영기) (video/movie) camera</meaning>
+    </type>
+  </alt>
+</word>
+<word id="earth">
+  <alt>
+    <type name="명사">
+      <meaning no="0"> 
+    </type>
+  </alt>
+</word>
+<word id="지구">
+  <alt no="0">
+    <type>
+      <meaning no="0">(사진기) camera</meaning>
+      <meaning no="1">(촬영기) (video/movie) camera</meaning>
+  </alt>
+  <alt no="0">
+</word>
+<word id="C.O.R.E.">
+  <alt no="0">
+    <type name="">
+      <meaning no="0"> (美) Congress of Racial Equality 인종 평등 회의. </meaning>
+    </type>
+  </alt>
+</word>
+<word id="CORE">
+  <alt no="0">
+    <type name="명사">
+      <meaning no="0"> 인종 평등 회의 </meaning>
+    </type>
+  </alt>
+</word>
+<word id="core">
+  <alt no="0">
+    <type name="동사">
+      <meaning no="0"> [타동사][VN]  (과일의) 심[가운데]을 파내다 </meaning>
+    </type>
+    <type name="명사">
+      <meaning no="0">  (사과 같은 과일의) 속[심] </meaning>
+      <meaning no="1">  (사물의) 중심부  </meaning>
+      <meaning no="2">  핵심  </meaning>
+      <meaning no="3">  핵심 집단  </meaning>
+    </type>
+    <type name="형용사">
+      <meaning no="0">  핵심적인, 가장 중요한  </meaning>
+      <meaning no="1"> ~ beliefs, values, principles, etc.  핵심[중심] 신조, 가치, 원칙 등  </meaning>
+      <meaning no="2">  (어떤 집단에서) 핵심되는  </meaning>
+    </type>
+  </alt>
+</word>
+<word id="hard core">
+  <alt no="0">
+    <type name="명사">
+      <meaning no="0"> [sing.+ sing./pl. v.]  (조직의) 핵심 (집단), 강경파  </meaning>
+      <meaning no="1"> [U] 보통 ˈhardcore  경골재(도로 건설 때 바닥 재료로 까는 돌멩이, 벽돌 등) </meaning>
+    </type>
+  </alt>
+</word>
+<word id="hard-core">
+  <alt no="0">
+    <type name="형용사">
+      <meaning no="0">  강경한  </meaning>
+      <meaning no="1">  (사진 등의 성행위 묘사가) 노골적인  soft-core  </meaning>
+    </type>
+  </alt>
+</word>
+<word id="tag">
+  <alt no="0">
+    <type name="동사">
+      <meaning no="0"> [타동사][VN]  꼬리표를 붙이다  electronic tagging  </meaning>
+      <meaning no="1"> [타동사][VN] ~ sb/sth as sth (사람・사물을 묘사하는) 꼬리표를 붙이다  </meaning>
+      <meaning no="2"> [타동사][VN]  (컴퓨터) (식별・처리 방법 표시 등을 위해 텍스트나 데이터 앞뒤에) 태그를 붙이다 </meaning>
+    </type>
+    <type name="명사">
+      <meaning no="0"> [C] [흔히 합성어에서]  (어떤 표시를 하기 위해 붙인) 꼬리표[태그]  </meaning>
+      <meaning no="1"> [C] [주로 단수로]  (사람・사물을 묘사하기 위해 붙인) 꼬리표  </meaning>
+      <meaning no="2"> [C]  (언어) (문장의) 부가 어구(Yes, I do에서 I do 같은 것)  question tag </meaning>
+      <meaning no="3"> [C]  (컴퓨터) 태그(식별・처리 방법 표시 등을 위해 텍스트나 데이터 앞뒤에 붙이는 표지) </meaning>
+      <meaning no="4"> [C]  (짧은) 인용구, (외국어로 된) 속담  </meaning>
+      <meaning no="5"> [U] (英 또한 tig)  잡기 놀이(한 명의 아이가 다른 아이들을 잡으려고 뒤쫓아 다니는 놀이) </meaning>
+      <meaning no="6"> [C]  (그래피티(graffiti)를 하는 사람이 쓰는) 별명[상징] </meaning>
+    </type>
+  </alt>
+  <alt no="1">
+    <type name="명사">
+      <meaning no="0"> [미] 꼬리표, 정가표; 부전(附箋); 물표; 번호표  </meaning>
+      <meaning no="1"> 늘어진 끝[장식] ((의복·리본 등의)) </meaning>
+      <meaning no="2"> (상의를 걸기 위한) 깃의 고리 </meaning>
+      <meaning no="3"> 끈 끝의 마구리쇠(tab); (장화의) 손잡이 가죽 </meaning>
+      <meaning no="4"> (자동차의) 번호판 </meaning>
+      <meaning no="5"> (진행·진전 등의) 최종 단계, 말미 </meaning>
+      <meaning no="6"> (연극) 끝맺음 말 </meaning>
+      <meaning no="7"> (컴퓨터) (정보의 처음과 끝을 나타내는) 표시 문자, 표시어(sentinel) </meaning>
+      <meaning no="8"> 상투적 인용구; 이야기 끝의 교훈; (시·노래의) 후렴 </meaning>
+      <meaning no="9"> 부가 어구, 반복 어구 </meaning>
+      <meaning no="10"> (집단·개인·조직 등의 성질을 나타내는) 형용(구), 별명, 낙인 </meaning>
+      <meaning no="11"> 교통 위반 딱지 </meaning>
+      <meaning no="12"> 털의 엉킨 뭉치; (양의) 곱슬곱슬한 털, 엉클어진 털 </meaning>
+      <meaning no="13"> (털빛이 다른) 꼬리(의 끝) </meaning>
+      <meaning no="14"> 체포 영장 </meaning>
+      <meaning no="15"> 하층민, 어중이떠중이 </meaning>
+    </type>
+    <type name="자동사">
+      <meaning no="0"> 쫓아다니다, 붙어다니다 ((at, after, along))  </meaning>
+    </type>
+    <type name="타동사">
+      <meaning no="0"> 느림 장식[쇠붙이, 손잡이, 꼬리표]을 달다  </meaning>
+      <meaning no="1"> <동물에> 표지를 달다 </meaning>
+      <meaning no="2"> [구어] <자동차에> 교통 위반 딱지를 붙이다; <운전사에게> 교통 위반 딱지를 건네주다 </meaning>
+      <meaning no="3"> 부가하다, 덧붙이다 ((to, onto)); <시·문장 등을> 연결하다 ((together))  </meaning>
+      <meaning no="4"> …에 별명을 붙이다, 낙인을 찍다 ((as)) </meaning>
+      <meaning no="5"> 책임을 지우다 ((with)) </meaning>
+      <meaning no="6"> 값을 매기다  </meaning>
+      <meaning no="7"> 쫓아다니다  </meaning>
+      <meaning no="8"> <양의> 곱슬털을 깎다 </meaning>
+      <meaning no="9"> 인용구로 맺다; 압운(押韻)하다  </meaning>
+    </type>
+  </alt>
+  <alt no="2">
+    <type name="명사">
+      <meaning no="0"> 술래잡기 술래는 it 또는 tagger.</meaning>
+      <meaning no="1"> (야구) 터치아웃 </meaning>
+    </type>
+    <type name="타동사">
+      <meaning no="0"> <술래잡기에서 술래가> 붙잡다 </meaning>
+      <meaning no="1">-a. (야구) <주자를> 터치아웃시키다 ((out)), <베이스·주자에> 터치하다; <베이스를> 밟다 </meaning>
+      <meaning no="2">-b. (야구) 강타하다, 안타를 날리다 </meaning>
+    </type>
+    <type name="형용사">
+      <meaning no="0"> (프로 레슬링에서) 태그 방식의 </meaning>
+    </type>
+  </alt>
+  <alt no="3">
+    <type name="명사">
+      <meaning no="0"> (사람이나 물건에 부착하여 그 행방을 추적하는) 전자 추적 장치 </meaning>
+    </type>
+    <type name="타동사">
+      <meaning no="0"> ((~ged; ~·ging)) <사람·물건에> 전자 추적 장치를 부착하다 </meaning>
+    </type>
+  </alt>
+  <alt no="4">
+    <type name="명사">
+      <meaning no="0"> (낙서가에 의한) 낙서 ((낙서가의 서명이 있는)) </meaning>
+    </type>
+    <type name="타동사">
+      <meaning no="0"> ((~ged; ~·ging)) <장소·물건에> 낙서로 장식하다; <공공장소에> 낙서를 남기다 </meaning>
+    </type>
+  </alt>
+</word>
+<word id="Oil">
+  <alt no="0">
+    <type name="">
+      <meaning no="0">      (조리용어)  오일 기름, 상온에서는 액체로서 점성이 있고, 가연성이며 물에 용해되지 않고 물보다 가벼워서 수... </meaning>
+    </type>
+  </alt>
+</word>
+<word id="song">
+  <alt no="0">
+    <type name="명사">
+      <meaning no="0"> [C]  (하나의) 노래  swansong  </meaning>
+      <meaning no="1"> [U]  (일반적인) 노래, 가곡, 성악곡  plainsong  </meaning>
+      <meaning no="2"> [U , C]  (새의) 노래[지저귐]  </meaning>
+    </type>
+  </alt>
+</word>
+<word id="sing">
+  <alt no="0">
+    <type name="동사">
+      <meaning no="0">  노래하다  </meaning>
+      <meaning no="1"> [자동사][V]  새가 노래하다, 지저귀다, 울다  </meaning>
+      <meaning no="2"> [자동사][V]  <휘파람 소리 비슷한 높은 소리를 내다>  </meaning>
+    </type>
+  </alt>
+</word>
+<word id="sing of something">
+  <alt no="0">
+    <type name="">
+      <meaning no="0"> (구식 또는 격식) (시·노래로) ~을 찬미하다 </meaning>
+    </type>
+  </alt>
+</word>
+<word id="sing up">
+  <alt no="0">
+    <type name="">
+      <meaning no="0"> (英) 더 크게 노래하다 </meaning>
+    </type>
+  </alt>
+</word>
+<word id="sing.">
+  <alt no="0">
+    <type name="">
+      <meaning no="0"> single; singular </meaning>
+    </type>
+  </alt>
+</word>
+<word id="song">
+  <alt no="0">
+    <type name="명사">
+      <meaning no="0"> [C]  (하나의) 노래  swansong  </meaning>
+      <meaning no="1"> [U]  (일반적인) 노래, 가곡, 성악곡  plainsong  </meaning>
+      <meaning no="2"> [U , C]  (새의) 노래[지저귐]  </meaning>
+    </type>
+  </alt>
+</word>
+<word id="우유">
+  <alt no="0">
+    <type name="">
+      <meaning no="0"> milk </meaning>
+    </type>
+  </alt>
+</word>
+<word id="Can">
+  <alt no="0">
+    <type name="">
+      <meaning no="0">      (카지노용어)  캔, 카지노의 ‘드롭 박스(drop box)’를 지칭한다. </meaning>
+    </type>
+  </alt>
+</word>
+<word id="Can.">
+  <alt no="0">
+    <type name="">
+      <meaning no="0"> Canada; Canadian </meaning>
+    </type>
+  </alt>
+</word>
+<word id="can">
+  <alt no="0">
+  </alt>
+  <alt no="1">
+    <type name="조동사">
+      <meaning no="0">  가능 …할 수 있다  </meaning>
+      <meaning no="1">  능력 …할 줄 알다  </meaning>
+      <meaning no="2">  동사 feel, hear, see, smell, taste와 함께 쓰여 그런 감각이 느껴짐을 나타냄  </meaning>
+      <meaning no="3">  허가 …해도 된다  </meaning>
+      <meaning no="4">  (비격식) 허락 여부를 물을 때 …해도 되는가?  </meaning>
+      <meaning no="5">  (비격식) 도움을 구할 때 …해 주겠니?  </meaning>
+      <meaning no="6">  (부정문에 쓰여) …일 리가 없다  </meaning>
+      <meaning no="7">  의혹・놀람을 나타낼 때   </meaning>
+      <meaning no="8">  자주 어떤 양상을 보임을 나타낼 때  </meaning>
+      <meaning no="9">  제안을 할 때  </meaning>
+      <meaning no="10">  (비격식) 보통 화가 나서 명령・지시를 할 때  </meaning>
+    </type>
+  </alt>
+  <alt no="2">
+    <type name="동사">
+      <meaning no="0">  (특히 美) 통조림으로 가공하다 </meaning>
+      <meaning no="1">  (美 비격식) 해고하다, 자르다 </meaning>
+    </type>
+    <type name="명사">
+      <meaning no="0"> [C] (英 또한 tin)  통조림, 깡통, 캔 미국 영어에서는 can을 보통 식품과 음료 둘 다에 대해 쓴다. 영국 영어에서는 음료에 대해서는 항상 can을 쓰고 식품・페인트 등에 대해서는 tin이나 can을 쓴다.</meaning>
+      <meaning no="1"> [C]  통조림[깡통/캔](한 개의 양)  </meaning>
+      <meaning no="2"> [C]  (쇠붙이나 플라스틱으로 만든) 통[용기]  </meaning>
+      <meaning no="3"> [C]  (깡통형) 분무기  </meaning>
+      <meaning no="4"> [sing.] the can  (美 속어) 감방 </meaning>
+      <meaning no="5"> [sing.] the can  (美 속어) 똥간 </meaning>
+    </type>
+  </alt>
+</word>
+<word id="can.">
+  <alt no="0">
+    <type name="">
+      <meaning no="0"> canceled; cancellation; canon; canto; canton; cantoris </meaning>
+    </type>
+  </alt>
+</word>
+<word id="Oil">
+  <alt no="0">
+    <type name="">
+      <meaning no="0">      (조리용어)  오일 기름, 상온에서는 액체로서 점성이 있고, 가연성이며 물에 용해되지 않고 물보다 가벼워서 수... </meaning>
+    </type>
+  </alt>
+</word>
+<word id="oil">
+  <alt no="0">
+    <type name="동사">
+      <meaning no="0"> [타동사][VN]  (기계 등에) 기름[윤활유]을 치다  </meaning>
+    </type>
+    <type name="명사">
+      <meaning no="0"> [U]  (지하에서 발견되는) 석유[기름]  </meaning>
+      <meaning no="1"> [U]  (연료용으로 정제한) 기름[석유]; 오일, 윤활유  </meaning>
+      <meaning no="2"> [U , C]  (요리용) 기름, 식용유  </meaning>
+      <meaning no="3"> [U , C]  (피부・머리 등에 바르는) 기름[오일]  essential oil  </meaning>
+      <meaning no="4"> [U] (oils [pl.])  유화 물감  oil paint  </meaning>
+      <meaning no="5"> [C]   oil painting  </meaning>
+    </type>
+  </alt>
+</word>
+<word id="oily">
+  <alt no="0">
+    <type name="형용사">
+      <meaning no="0">  기름기가 함유된; 기름기가 덮인[발린]  </meaning>
+      <meaning no="1">  기름 같은, 기름 맛[냄새]이 나는  </meaning>
+      <meaning no="2">  (못마땅함) 사람・행동이 번지르르한, 알랑거리는 듯한  </meaning>
+    </type>
+  </alt>
+</word>
+<word id="soil">
+  <alt no="0">
+    <type name="동사">
+      <meaning no="0"> [타동사][VN] [흔히 수동태로]  (격식) 더럽히다  shop-soiled  </meaning>
+    </type>
+    <type name="명사">
+      <meaning no="0">  토양, 흙  </meaning>
+      <meaning no="1">  (문예체) 국가, 국토, 땅  </meaning>
+    </type>
+  </alt>
+  <alt no="1">
+    <type name="명사">
+      <meaning no="0"> [[U]] 흙, 땅, 표토, 지면, 토질  </meaning>
+      <meaning no="1"> 경지, 경작지;[the ~] 대지, 지면; 농업(생활), 농경  </meaning>
+      <meaning no="2"> [[UC/]] 국토, 나라  </meaning>
+      <meaning no="3"> [[UC/]] (해악 등의) 온상, 생육지(生育地) ((for)) </meaning>
+    </type>
+  </alt>
+</word>
